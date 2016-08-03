@@ -2,7 +2,7 @@
 layout: post
 title:  "Post ITIL, Y2K and The Epochalypse"
 date:   2016-08-03 23:43:00 +1000
-categories: blog unix fail
+categories: blog
 ---
 
 So I've been thinking about The Epochalypse (that magic moment in 2038,
