@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/russellmcgregor
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://blog.ethergeek.net
+  * I am russellmcgregor (https://keybase.io/russellmcgregor) on keybase.
+  * I have a public key ASD5br53UgGvtcNg6b761H08rwjbHCAYtOA3BTJR4DejPgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01207880caea3c4a61006b1be205ba2ac953658f8129c24b9d5996a075690b5fb11a0a",
+      "host": "keybase.io",
+      "kid": "0120f96ebe775201afb5c360e9befad47d3caf08db1c2018b4e037053251e037a33e0a",
+      "uid": "27beb4d4cd73d2f7be7dd3862cece419",
+      "username": "russellmcgregor"
+    },
+    "merkle_root": {
+      "ctime": 1552912082,
+      "hash": "04bf6d550a8df538218c4d9ef33a1c1c89ce165b084134fc3f13b284887f0a9cb717c8ca1ed1da12a9bae75f58c4232cf7de2f592d369f8c0cd1b238a138fc23",
+      "hash_meta": "f668e0983332c2b8a669f8b07138f7c0316e6df6d9a36a7496714d69f752a6b2",
+      "seqno": 4972006
+    },
+    "service": {
+      "entropy": "PeJzpLylYAyZncsGeQi1uYrM",
+      "hostname": "blog.ethergeek.net",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.1.2"
+  },
+  "ctime": 1552912113,
+  "expire_in": 504576000,
+  "prev": "64e09f7795ed450caba43dd83ddc07dee4b0294d3d6330bcb001ab486375cf52",
+  "seqno": 20,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg+W6+d1IBr7XDYOm++tR9PK8I2xwgGLTgNwUyUeA3oz4Kp3BheWxvYWTESpcCFMQgZOCfd5XtRQyrpD3YPdwH3uSwKU09YzC8sAGrSGN1z1LEIPWdCRXyeWZ0sWxR+rQ1m2VbXRLECaT7t+KCcklHFoz+AgHCo3NpZ8RAOi8rhNx4yTr3ggpCUbP/p0hcH2UJfUSiHTKF/hidhf2MAxRhXSiJuDoX4x04QtB1JbW2tCdNUtvuzsRHmk4nCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJbmAd+9Id0FfhD7bZAS73HsCu8qF/Kn68EPkiOXgZxFo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/russellmcgregor
+
+==================================================================
